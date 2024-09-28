@@ -43,7 +43,10 @@
     X-Frame-Options = "SAMEORIGIN"
     Referrer-Policy = "strict-origin"
     Permissions-Policy = "geolocation=(self), microphone=(), camera=()"
-    Cache-Control= '''
-    public,
-    max-age=31536000'''
+    Cache-Control = '''
+      max-age=0,
+      no-cache,
+      no-store,
+      must-revalidate
+    '''
     Access-Control-Allow-Origin = "*"
