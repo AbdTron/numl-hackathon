@@ -2,6 +2,7 @@
 title: "Schedule"
 date: 2024-09-28
 draft: false
+type: "docs"
 ---
 
 <br>
