@@ -57,7 +57,7 @@
 
 [[footer]]
   name = "Privacy Policy"
-  pageRef = "https://numl.atrons.net/privacy/"
+  pageRef = "/privacy/"
   weight = 10
 
 # [[footer]]
