@@ -20,5 +20,9 @@
     {{ if eq site.Params.doks.toTopButton true -}}
     {{ partial "footer/to-top" . }}
     {{ end }}
+
+    <!-- Add your cache-buster.js script here -->
+    <script src="{{ "cache-buster.js" | relURL }}"></script>
+
 </body>
 </html>
