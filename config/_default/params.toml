@@ -1,0 +1,110 @@
+# Hugo
+title = "My Docs"
+description = "Congrats on setting up a new Doks project!"
+images = ["cover.png"]
+
+# mainSections
+mainSections = ["docs"]  # Keep only the desired sections
+
+[social]
+twitter = "getdoks"
+
+# Doks (@thulite/doks-core)
+[doks]
+colorMode = "auto" 
+colorModeToggler = true 
+navbarSticky = true 
+containerBreakpoint = "lg" 
+navBarButton = false 
+navBarButtonUrl = "/docs/prologue/introduction/"
+navBarButtonText = "Get started"
+
+# Navigation
+sectionNav = []  # Remove all links
+toTopButton = false 
+breadcrumbTrail = false 
+headlineHash = true 
+scrollSpy = true 
+
+# Search settings
+flexSearch = true 
+searchExclKinds = [] 
+searchExclTypes = [] 
+showSearch = [] 
+indexSummary = false 
+
+## Search results
+showDate = false 
+showSummary = true 
+searchLimit = 99 
+
+# Global alert
+alert = false 
+alertDismissable = true 
+
+# Versioning
+docsVersioning = false 
+docsVersion = "1.0"
+
+# UX settings
+headerBar = false 
+backgroundDots = true 
+
+# Homepage settings
+sectionFooter = false 
+
+# Repository settings
+editPage = false 
+lastMod = false 
+repoHost = "GitHub" 
+docsRepo = "https://github.com/h-enk/doks"
+docsRepoBranch = "main" 
+docsRepoSubPath = "" 
+
+# SCSS colors (optional)
+# backGround = "yellowgreen"
+
+# Debug settings
+[render_hooks.image]
+errorLevel = 'ignore' 
+
+[render_hooks.link]
+errorLevel = 'ignore' 
+highlightBroken = false 
+
+# Images (@thulite/images)
+[thulite_images]
+[thulite_images.defaults]
+decoding = "async" 
+fetchpriority = "auto" 
+loading = "lazy" 
+widths = [480, 576, 768, 1025, 1200, 1440] 
+sizes = "auto" 
+process = "" 
+lqip = "16x webp q20" 
+
+# Inline SVG (@thulite/inline-svg)
+[inline_svg]
+iconSetDir = "tabler-icons" 
+
+# SEO (@thulite/seo)
+[seo]
+[seo.title]
+separator = " | "
+suffix = ""
+[seo.favicons]
+sizes = []
+icon = "favicon.png" 
+svgIcon = "favicon.svg" 
+maskIcon = "mask-icon.svg" 
+maskIconColor = "white" 
+[seo.schemas]
+type = "Organization" 
+logo = "favicon-512x512.png" 
+name = "Thulite" 
+sameAs = [] 
+images = ["cover.png"] 
+article = [] 
+newsArticle = [] 
+blogPosting = []  # Remove blog links
+product = [] 
