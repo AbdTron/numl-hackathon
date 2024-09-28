@@ -1,7 +1,11 @@
-window.addEventListener('load', function () {
-    // Check if the page was loaded from the cache
-    if (performance.navigation.type === 1) {
-        // If loaded from the cache, force reload from the server
-        window.location.reload(true);
+// cache-buster.js
+document.addEventListener("DOMContentLoaded", function () {
+    // Check if the cache-buster has already run this session
+    if (!sessionStorage.getItem("cacheBusterRan")) {
+        // Set the flag to prevent further reloads in the same session
+        sessionStorage.setItem("cacheBusterRan", "true");
+
+        // Force a reload from the server
+        location.reload(true);
     }
 });
