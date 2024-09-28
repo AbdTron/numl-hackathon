@@ -50,5 +50,12 @@
       <guid>http://localhost:1313/privacy/</guid>
       <description>Learn about our privacy practices and your rights regarding your data.</description>
     </item>
+    <item>
+      <title>Hackathon Rules</title>
+      <link>http://localhost:1313/rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rules/</guid>
+      <description>&lt;h2 id=&#34;rules--regulations&#34;&gt;Rules &amp;amp; Regulations&lt;/h2&gt;&#xA;&lt;p&gt;Please make sure to read and follow all the rules and regulations for the NUML Hackathon 2024.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
