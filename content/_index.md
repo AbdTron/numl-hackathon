@@ -7,42 +7,65 @@ draft: false
 
 ## HackForge 0.1
 
-**HackForge 0.1** is an annual tech competition that challenges participants to showcase their skills in various categories. Whether you're a seasoned coder or a budding designer, this event offers a platform to test your abilities and compete against like-minded individuals.
+**HackForge 0.1** is an exciting annual tech competition that invites participants to demonstrate their abilities across multiple categories. Whether you're a seasoned coder or a budding designer, this event provides a platform to test your skills and compete with like-minded enthusiasts.
 
-### Registration Deadline
+<br>
 
-**September 30, 2024**
 
-### Rules and Regulations
+### Key Details
 
-#### Eligibility
-- Open to students of all levels.
-- Teams can consist of up to 3 members.
-- Individual participation is allowed for certain categories.
 
-#### Registration
-- Registration is mandatory for all participants.
-- Team Limit: There is a 30-team limit for each competition. Registration will be closed once the limit is reached.
-- **Registration Fee**:
-  - **Competitive Programming**: Rs. 250 per member (Team of 2 members/ Individual)
+- **Event Dates**: October 7, 8, 9, 2024
+- **Registration Deadline**: September 30, 2024
+- **Team Limit**: 30 teams per competition
+
+<br>
+
+---
+
+### Registration & Competition Categories
+
+ - **Competitive Programming**: Rs. 250 per member (Team of 2 members/ Individual)
   - **Website Development**: Rs. 300 per member (Team of 3 members/ Individual)
   - **Graphic Designing**: Rs. 300 per member (Individual ONLY)
   - **Math Quiz IQ Test**: Rs. 200 per participant (Individual ONLY)
 
+<br>
 
-### Competition Categories
-- **Competitive Programming**: Solve algorithmic problems within a set time limit.
-- **Website Development**: Create a fully functional website based on a given theme.
-- **Graphic Designing**: Design visually appealing graphics for a specific theme.
-- **Math Quiz IQ Test**: Solve challenging mathematical and IQ-related problems.
+
+---
+
+### Rules and Regulations
+
+#### Eligibility
+
+- For eligibility, rules and regulation, please look the [Rules Section](https://numl.atrons.net/rules/)
+- The time limits for each competition is specified in the competition guidelines.
+
+
+
+#### Registration Guidelines
+
+- Registration is mandatory for all participants.
+- Team registration will close once the 30-team limit is reached in each competition.
+
+<br>
+
+
+---
 
 ### Judging Criteria
-- The judging criteria for each competition will be announced separately.
-- Factors such as creativity, technical skills, problem-solving abilities, and adherence to rules will be considered.
+
+- Judging for each competition will focus on creativity, technical skills, problem-solving abilities, and adherence to the competition's specific rules.
+- Full judging details will be announced closer to the event date.
+
+<br>
+
+---
 
 ### Prizes
-- The top 3 teams/individuals in each category will be awarded prizes and certificates.
-- The exact prizes will be announced closer to the event date.
 
-### Event Dates
-**October 7, 8, 9, 2024**
+Prizes and certificates will be awarded to the top 3 participants or teams in each category. For details on the Prizes, Please visit the [Rules Section](https://numl.atrons.net/rules/)
+
+
+

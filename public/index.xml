@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NUML Hackathon 2024 on NUML</title>
-    <link>/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in NUML Hackathon 2024 on NUML</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Sep 2024 17:19:07 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>/blog/example-post/</link>
+      <link>http://localhost:1313/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>/blog/example-post/</guid>
+      <guid>http://localhost:1313/blog/example-post/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
       <title>Example Guide</title>
-      <link>/docs/guides/example-guide/</link>
+      <link>http://localhost:1313/docs/guides/example-guide/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>/docs/guides/example-guide/</guid>
+      <guid>http://localhost:1313/docs/guides/example-guide/</guid>
       <description>&lt;p&gt;Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Example Reference</title>
-      <link>/docs/reference/example-reference/</link>
+      <link>http://localhost:1313/docs/reference/example-reference/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>/docs/reference/example-reference/</guid>
+      <guid>http://localhost:1313/docs/reference/example-reference/</guid>
       <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>/docs/resources/</link>
+      <link>http://localhost:1313/docs/resources/</link>
       <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
-      <guid>/docs/resources/</guid>
+      <guid>http://localhost:1313/docs/resources/</guid>
       <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schedule</title>
-      <link>/schedule/</link>
+      <link>http://localhost:1313/schedule/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/schedule/</guid>
+      <guid>http://localhost:1313/schedule/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;numl-hackathon-schedule&#34;&gt;NUML Hackathon Schedule&lt;/h2&gt;&#xA;&lt;p&gt;Schedule for the upcoming event. Please note that the schedule is subject to change.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;October 7, 2024&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>Learn about our privacy practices and your rights regarding your data.</description>
     </item>
     <item>
       <title>Hackathon Rules</title>
-      <link>/rules/</link>
+      <link>http://localhost:1313/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/rules/</guid>
+      <guid>http://localhost:1313/rules/</guid>
       <description>&lt;h2 id=&#34;rules--regulations&#34;&gt;Rules &amp;amp; Regulations&lt;/h2&gt;&#xA;&lt;p&gt;Please make sure to read and follow all the rules and regulations for the NUML Hackathon 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HackForge Coding Competition - Rules &amp; Regulations</title>
-      <link>/rules/hackforge/</link>
+      <link>http://localhost:1313/rules/hackforge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/rules/hackforge/</guid>
+      <guid>http://localhost:1313/rules/hackforge/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;1-competitive-programming&#34;&gt;1. Competitive Programming&lt;/h2&gt;&#xA;&lt;p&gt;Competitive Programming is the sport of solving programming problems under specific rulesets. Teams compete to earn the most points by the end of the allotted time by solving the problems and trying to excel in judging criteria such as fulfilling edge cases, space-time complexity, code formatting, best practices, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HackForge Graphic Design Competition - Rules &amp; Regulations</title>
-      <link>/rules/graphic-designing/</link>
+      <link>http://localhost:1313/rules/graphic-designing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/rules/graphic-designing/</guid>
+      <guid>http://localhost:1313/rules/graphic-designing/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;h3 id=&#34;1-eligibility&#34;&gt;1. Eligibility&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Participants&lt;/strong&gt;: The competition is open to current university students. Proof of enrollment (&lt;a class=&#34;text-muted&#34;&gt;student ID or current semester transcript&lt;/a&gt;) will be required during registration.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Software Requirement&lt;/strong&gt;: All entries must be created using Adobe Photoshop and/or Canva.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Individual Participation&lt;/strong&gt;: The competition is for individual participants only; team entries will not be accepted.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-competition-categories&#34;&gt;2. Competition Categories&lt;/h3&gt;&#xA;&lt;p&gt;Participants must choose one category from both themes for their design. Each theme category offers a broad spectrum of creative possibilities and encourages a unique perspective:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Trivia Competition Rules</title>
-      <link>/rules/math-quiz/</link>
+      <link>http://localhost:1313/rules/math-quiz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/rules/math-quiz/</guid>
+      <guid>http://localhost:1313/rules/math-quiz/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;h3 id=&#34;1-objective&#34;&gt;1. Objective:&lt;/h3&gt;&#xA;&lt;p&gt;Participants will solve a series of challenging mathematical and IQ-related problems within a set time. This category will test their logical reasoning, problem-solving abilities, and quick thinking.&lt;/p&gt;</description>
     </item>
   </channel>
