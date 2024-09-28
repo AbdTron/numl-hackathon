@@ -1,2 +1,19 @@
 // Put your custom SCSS code here
+// Custom Dropdown Styles
+.navbar .dropdown-menu {
+    background-color: #yourBackgroundColor; // Your desired background color
+    color: #yourTextColor; // Your desired text color
+    border: 1px solid #yourBorderColor; // Optional border
+    // Any additional styling you want
+}
+
+.navbar .dropdown-menu a {
+    color: #yourLinkColor; // Change link color
+}
+
+.navbar .dropdown-menu a:hover {
+    background-color: #yourHoverBackgroundColor; // Change hover background
+    color: #yourHoverTextColor; // Change hover text color
+}
+
 
