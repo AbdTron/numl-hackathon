@@ -16,7 +16,7 @@ draft: false
 
 
 - **Event Dates**: October 7, 8, 9, 2024
-- **Registration Deadline**: September 30, 2024
+- **Registration Deadline**: October 6, 2024
 - **Team Limit**: 30 teams per competition
 
 <br>
