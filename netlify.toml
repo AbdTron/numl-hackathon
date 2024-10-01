@@ -50,3 +50,9 @@
       must-revalidate
     '''
     Access-Control-Allow-Origin = "*"
+
+    [[headers]]
+  for = "/HackForge3.png"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
