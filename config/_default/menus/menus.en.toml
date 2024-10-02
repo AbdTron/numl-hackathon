@@ -56,9 +56,10 @@
 #   weight = 30
 
 [[footer]]
-  name = "Privacy Policy"
-  pageRef = "/privacy/"
+  name = "\u00A9 2024 Abdullah Irshad. All rights reserved"
+  pageRef = "/copyright/"
   weight = 10
+
 
 # [[footer]]
 #   name = "Terms of Service"

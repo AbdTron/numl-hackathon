@@ -17,12 +17,27 @@
         <div class="container">
             {{ end -}}
 
-            <!-- Site title -->
-            <div style="display: flex; gap: 20px;">
+            <div style="display: flex; gap: 20px; align-items: center;">
                 <a class="navbar-brand" href="https://numl.atrons.net/">{{ .Site.Title }}</a>
+                <a class="navbar-brand" href="https://numl.atrons.net/hackforge">Hackforge</a>
+                <a class="navbar-brand" href="https://numl.atrons.net/debate">Debate</a>
+
+                <div class="dropdown" style="align-self: center;">
+                    <a class="navbar-brand dropdown-toggle" href="#" role="button" id="rulesDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        Rules
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="rulesDropdown">
+                        <li><a class="dropdown-item" href="https://numl.atrons.net/hackforge/hackforge-rules">HackForge Rules</a></li>
+                        <li><a class="dropdown-item" href="https://numl.atrons.net/debate/rules/debate-rules">Debate Rules</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!--
                 <a class="navbar-brand" href="https://numl.atrons.net/rules">Rules</a>
                 <a class="navbar-brand" href="https://numl.atrons.net/schedule">Schedule</a>
-            </div>
+                -->
+
 
 
             <!-- FlexSearch mobile -->
@@ -38,6 +53,8 @@
        </svg>
     </button>-->
             {{ end -}}
+
+
 
             <!-- Section navigation -->
             {{ if (in site.Params.doks.sectionNav .Section) -}}
@@ -232,6 +249,10 @@
 
                 <!-- Color mode toggler -->
                 {{ if and (eq site.Params.doks.colorMode "auto") site.Params.doks.colorModeToggler -}}
+            <div style="display: flex; align-items: center; gap: 20px;">
+                <a class="navbar-brand" href="https://numl.atrons.net/contacts" title="Contact" style="font-size: inherit; font-weight: inherit; text-decoration: none; padding: 0;">
+                    Contact
+                </a>
                 <button id="buttonColorMode" class="btn btn-link mx-auto nav-link p-0 ms-lg-2 me-lg-1" type="button" aria-label="Toggle theme">
                     <svg data-bs-theme-value="dark" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -242,25 +263,26 @@
                         <path d="M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0m-5 0h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"></path>
                     </svg>
                 </button>
-                {{ end -}}
-
-                <!-- Social menu -->
-                {{ if .Site.Menus.social -}}
-                <ul id="socialMenu" class="nav mx-auto flex-row order-lg-4">
-                    {{ range .Site.Menus.social -}}
-                    <li class="nav-item">
-                        <a class="nav-link social-link" href="{{ .URL | relURL }}">{{ .Pre | safeHTML }}<small class="ms-2 visually-hidden">{{ .Name | safeHTML }}</small></a>
-                    </li>
-                    {{ end -}}
-                </ul>
-                {{ end -}}
-
-
-                <!-- Navbar button mobile -->
-                {{ if site.Params.doks.navBarButton -}}
-                <a class="btn btn-primary rounded-pill mt-2 btn-block d-lg-none" href="{{ site.Params.doks.navBarButtonUrl | absURL }}" role="button">{{ site.Params.doks.navBarButtonText }}</a>
-                {{ end -}}
             </div>
+                    {{ end -}}
+
+                    <!-- Social menu -->
+                    {{ if .Site.Menus.social -}}
+                    <ul id="socialMenu" class="nav mx-auto flex-row order-lg-4">
+                        {{ range .Site.Menus.social -}}
+                        <li class="nav-item">
+                            <a class="nav-link social-link" href="{{ .URL | relURL }}">{{ .Pre | safeHTML }}<small class="ms-2 visually-hidden">{{ .Name | safeHTML }}</small></a>
+                        </li>
+                        {{ end -}}
+                    </ul>
+                    {{ end -}}
+
+
+                    <!-- Navbar button mobile -->
+                    {{ if site.Params.doks.navBarButton -}}
+                    <a class="btn btn-primary rounded-pill mt-2 btn-block d-lg-none" href="{{ site.Params.doks.navBarButtonUrl | absURL }}" role="button">{{ site.Params.doks.navBarButtonText }}</a>
+                    {{ end -}}
+                </div>
             </div>
 
             <!-- Navbar button desktop -->

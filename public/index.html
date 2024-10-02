@@ -17,8 +17,8 @@
 <noscript><style>img.lazyload { display: none; }</style></noscript><base href="http://localhost:1313/">
   <link rel="canonical" href="http://localhost:1313/">
   <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="NUML">
-<title>NUML Hackathon 2024  |  NUML</title>
-<meta name="description" content="Join us for the NUML Hackathon! Showcase your skills and compete with the best.">
+<title>NUML Events  |  NUML</title>
+<meta name="description" content="A page for all you NUML Events">
 
     
     <link rel="icon" href="/favicon.ico" sizes="32x32">
@@ -45,14 +45,14 @@
       >
 <link rel="manifest" href="/manifest.webmanifest">
 
-<meta property="og:title" content="NUML Hackathon 2024">
-<meta property="og:description" content="Join us for the NUML Hackathon! Showcase your skills and compete with the best.">
+<meta property="og:title" content="NUML Events">
+<meta property="og:description" content="A page for all you NUML Events">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:1313/"><meta property="og:image" content="http://localhost:1313/cover.png"><meta property="og:site_name" content="My Docs">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://localhost:1313/cover.png"><meta name="twitter:title" content="NUML Hackathon 2024">
-<meta name="twitter:description" content="Join us for the NUML Hackathon! Showcase your skills and compete with the best.">
+<meta name="twitter:image" content="http://localhost:1313/cover.png"><meta name="twitter:title" content="NUML Events">
+<meta name="twitter:description" content="A page for all you NUML Events">
 <meta name="twitter:site" content="@getdoks">
 <script type="application/ld+json">
 {
@@ -99,24 +99,30 @@
     <div class="sticky-top">
 <header class="navbar navbar-expand-lg">
   <div class="container-lg">
-  
-            <div style="display: flex; gap: 20px;">
+  <div style="display: flex; gap: 20px; align-items: center;">
                 <a class="navbar-brand" href="https://numl.atrons.net/">NUML</a>
-                <a class="navbar-brand" href="https://numl.atrons.net/rules">Rules</a>
-                <a class="navbar-brand" href="https://numl.atrons.net/schedule">Schedule</a>
+                <a class="navbar-brand" href="http://localhost:1313/hackforge">Hackforge</a>
+                <a class="navbar-brand" href="http://localhost:1313/debate">Debate</a>
+
+                <div class="dropdown" style="align-self: center;">
+                    <a class="navbar-brand dropdown-toggle" href="#" role="button" id="rulesDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        Rules
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="rulesDropdown">
+                        <li><a class="dropdown-item" href="https://numl.atrons.net/hackforge/hackforge-rules">HackForge Rules</a></li>
+                        <li><a class="dropdown-item" href="https://numl.atrons.net/debate/rules/debate-rules">Debate Rules</a></li>
+                    </ul>
+                </div>
             </div>
 
+            
+
+
 
             
             
             
-             <button type="button" id="searchToggleMobile" class="btn btn-link nav-link mx-2 d-lg-none" aria-label="Search website">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-        <circle cx="10" cy="10" r="7"></circle>
-        <line x1="21" y1="21" x2="15" y2="15"></line>
-       </svg>
-    </button> 
+            
             
             
             <button class="btn btn-link nav-link mx-2 order-3 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavMain" aria-controls="offcanvasNavMain" aria-label="Open main navigation menu">
@@ -140,31 +146,30 @@
                     </button>
                 </div>
                 
-                <div class="offcanvas-body d-flex flex-column flex-lg-row justify-content-between">
-                    <ul class="navbar-nav flex-grow-1"></ul>
+            <div class="offcanvas-body d-flex flex-column flex-lg-row justify-content-between">
+                <ul class="navbar-nav flex-grow-1"></ul>
 
-                    
-                    
-                    <button type="button" id="searchToggleDesktop" class="btn btn-link nav-link p-2 d-none d-lg-block" aria-label="Search website">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                    <circle cx="10" cy="10" r="7"></circle>
-                    <line x1="21" y1="21" x2="15" y2="15"></line>
-                </svg>
-            </button> 
-                    
-                    
-                    
-                    <button id="buttonColorMode" class="btn btn-link mx-auto nav-link p-0 ms-lg-2 me-lg-1" type="button" aria-label="Toggle theme">
-                        <svg data-bs-theme-value="dark" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                            <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
-                        </svg>
-                        <svg data-bs-theme-value="light" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-sun" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                            <path d="M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0m-5 0h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"></path>
-                        </svg>
-                    </button>
+                
+                
+                
+                
+                
+                
+                <div style="display: flex; align-items: center; gap: 20px;">
+                <a class="navbar-brand" href="https://numl.atrons.net/contacts" title="Contact" style="font-size: inherit; font-weight: inherit; text-decoration: none; padding: 0;">
+                    Contact
+                </a>
+                <button id="buttonColorMode" class="btn btn-link mx-auto nav-link p-0 ms-lg-2 me-lg-1" type="button" aria-label="Toggle theme">
+                    <svg data-bs-theme-value="dark" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                        <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
+                    </svg>
+                    <svg data-bs-theme-value="light" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-sun" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                        <path d="M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0m-5 0h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"></path>
+                    </svg>
+                </button>
+            </div>
                     
                     
                     </div>
@@ -231,57 +236,33 @@
     <div class="row justify-content-center">
         
         <div class="col-lg-12 text-center">
-            <img src="/HackForge3.png" alt="Cover Image" class="img-fluid mb-4">
+            <img src="/numlevents.png" alt="Cover Image" class="img-fluid mb-4">
 
         </div>
         <div class="col-lg-12 text-center">
-            <h1>NUML Hackathon 2024</h1>
+            <h1>NUML Events</h1>
         </div>
         <div class="col-lg-9 col-xl-8 text-center">
             <p class="lead"></p>
-            <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="https://docs.google.com/forms/d/e/1FAIpQLSdLVhJFWgbNjAkCN_q3eFkQfQAX1pwRFN0obFNKPKzMELbuuA/viewform" role="button">Register</a>
-            <h2 id="hackforge-01">HackForge 0.1</h2>
-<p><strong>HackForge 0.1</strong> is an exciting annual tech competition that invites participants to demonstrate their abilities across multiple categories. Whether you&rsquo;re a seasoned coder or a budding designer, this event provides a platform to test your skills and compete with like-minded enthusiasts.</p>
-<br>
-<h3 id="key-details">Key Details</h3>
-<ul>
-<li><strong>Event Dates</strong>: October 7, 8, 9, 2024</li>
-<li><strong>Registration Deadline</strong>: October 6, 2024</li>
-<li><strong>Team Limit</strong>: 30 teams per competition</li>
-</ul>
+            
+            <br>
+<h1 id="welcome-to-numl-events">Welcome to NUML Events</h1>
+<p>Your one-stop destination for all the amazing events happening at <strong>National University of Modern Languages (NUML)</strong>. Dive into the excitement and showcase your talents through our ongoing competitions!</p>
 <br>
 <hr>
-<h3 id="registration--competition-categories">Registration &amp; Competition Categories</h3>
-<ul>
-<li><strong>Competitive Programming</strong>: Rs. 250 per member (Team of 2 members/ Individual)</li>
-<li><strong>Website Development</strong>: Rs. 300 per member (Team of 3 members/ Individual)</li>
-<li><strong>Graphic Designing</strong>: Rs. 300 per member (Individual ONLY)</li>
-<li><strong>Math Quiz IQ Test</strong>: Rs. 200 per participant (Individual ONLY)</li>
-</ul>
+<h2 id="upcoming-events">Upcoming Events</h2>
+<h3 id="hackforge-2024httpsnumlatronsnethackforge"><a href="https://numl.atrons.net/hackforge/">HackForge 2024</a></h3>
+<p>Be a part of NUML&rsquo;s annual tech competition where coders, designers, and quizmasters gather to show their expertise across multiple categories! Don&rsquo;t miss out—register now and unleash your inner tech wizard.</p>
+<p><a class="text-muted">Event Date 7, 8, 9 October</a></p>
 <br>
 <hr>
-<h3 id="rules-and-regulations">Rules and Regulations</h3>
-<h4 id="eligibility">Eligibility</h4>
-<ul>
-<li>For eligibility, rules and regulation, please look the <a href="https://numl.atrons.net/rules/">Rules Section</a></li>
-<li>The time limits for each competition is specified in the competition guidelines.</li>
-</ul>
-<h4 id="registration-guidelines">Registration Guidelines</h4>
-<ul>
-<li>Registration is mandatory for all participants.</li>
-<li>Team registration will close once the 30-team limit is reached in each competition.</li>
-</ul>
+<h3 id="inter-departmental-debate-competitionhttpsnumlatronsnetdebate"><a href="https://numl.atrons.net/debate/">Inter-Departmental Debate Competition</a></h3>
+<p>Showcase your oratory brilliance at our <strong>bilingual debate competition</strong>! Join students from different departments in this exciting intellectual battle and make your voice heard.</p>
+<p><a class="text-muted">Event Date 7, 8, 9 October</a></p>
 <br>
 <hr>
-<h3 id="judging-criteria">Judging Criteria</h3>
-<ul>
-<li>Judging for each competition will focus on creativity, technical skills, problem-solving abilities, and adherence to the competition&rsquo;s specific rules.</li>
-<li>Full judging details will be announced closer to the event date.</li>
-</ul>
-<br>
+<p>Stay tuned for more thrilling events! Your participation makes the difference—<strong>go ahead and leave your mark at NUML</strong>.</p>
 <hr>
-<h3 id="prizes">Prizes</h3>
-<p>Prizes and certificates will be awarded to the top 3 participants or teams in each category. For details on the Prizes, Please visit the <a href="https://numl.atrons.net/rules/">Rules Section</a></p>
 
         </div>
     </div>
@@ -301,15 +282,13 @@
             <div class="col-lg-5">
                 <h2 class="h4">Contacts</h2>
                 <p>
-                    <strong>Waleed Ahmed:</strong> <a href="https://api.whatsapp.com/send?phone=923066505939" target="_blank">0306-6505939</a><br>
-                    <strong>Umair Farhat:</strong> <a href="https://api.whatsapp.com/send?phone=923354417664" target="_blank">0335-4417664</a><br>
-                    <strong>Abdullah Irshad:</strong> <a href="https://api.whatsapp.com/send?phone=923361101596" target="_blank">0336-1101596</a>
+                    <strong>Contact Info:</strong> <a href="https://https://numl.atrons.net/contacts" target="_blank">Contact Info</a><br>
                 </p>
             </div>
 
             <div class="col-lg-5">
                 <h2 class="h4">Collaboration</h2>
-                <p>In Collaboration with the CS Department NUML Lahore</p>
+                <p>Navigating the Web Alone: Crafted by One Passionate Developer</p>
             </div>
             <div class="col-lg-5">
                 <h2 class="h4">Further Questions</h2>
@@ -327,12 +306,12 @@
     <div class="row">
       <div class="col-lg-8 text-center text-lg-start">
         <ul class="list-inline">
-          <li class="list-inline-item"><a class="text-muted" href="/privacy/">Privacy Policy</a></li>
+          <li class="list-inline-item"><a class="text-muted" href="/copyright/">© 2024 Abdullah Irshad. All rights reserved</a></li>
         </ul>
       </div>
       <div class="col-lg-8 text-center text-lg-end">
         <ul class="list-inline">
-          <li class="list-inline-item">Developed and managed by <a class="text-muted">Abdullah Irshad</a></li>
+          <li class="list-inline-item"> &copy; Developed and managed by <a class="text-muted">Abdullah Irshad</a></li>
         </ul>
       </div>
     </div>

@@ -51,8 +51,18 @@
     '''
     Access-Control-Allow-Origin = "*"
 
-    [[headers]]
+[[headers]]
   for = "/HackForge3.png"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/numlevents.png"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/debatepic.png"
   [headers.values]
     Cache-Control = "public, max-age=86400"
 
