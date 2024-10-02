@@ -29,7 +29,7 @@ Be a part of NUML's annual tech competition where coders, designers, and quizmas
 ### [Inter-Departmental Debate Competition](https://numl.atrons.net/debate/)
 Showcase your oratory brilliance at our **bilingual debate competition**! Join students from different departments in this exciting intellectual battle and make your voice heard.
 
-<a class="text-muted">Event Date 7, 8, 9 October</a>
+<a class="text-muted">Event Date 16 October</a>
 
 <br>
 
