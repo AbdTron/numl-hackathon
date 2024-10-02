@@ -70,4 +70,8 @@ Prizes will be annouced close to the event.
 
 **Focal Person**
 
-Ms. Asma Iram
+Ms. Aasma Iram
+
+<p>
+  <strong>For Contact:</strong> <a href="https://numl.atrons.net/contacts/" target="_blank">Contact Info</a><br>
+</p>

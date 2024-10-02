@@ -68,5 +68,7 @@ layout: "hackforge"
 
 Prizes and certificates will be awarded to the top 3 participants or teams in each category. For details on the Prizes, Please visit the [Rules Section](https://numl.atrons.net/hackforge/hackforge-rules/)
 
-
+<p>
+  <strong>For Contact:</strong> <a href="https://numl.atrons.net/contacts/" target="_blank">Contact Info</a><br>
+</p>
 

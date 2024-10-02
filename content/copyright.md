@@ -21,3 +21,6 @@ For inquiries or permissions, please contact: abdullah.tron@gmail.com
 
 [Privacy Policy](https://numl.atrons.net/policy/)
 
+<p>
+  <strong>For Contact:</strong> <a href="https://numl.atrons.net/contacts/" target="_blank">Contact Info</a><br>
+</p>
