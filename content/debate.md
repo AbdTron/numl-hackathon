@@ -14,7 +14,7 @@ layout: "debate"
 
 ### Key Details
 
-- **Event Date**: October 16, 2024
+- **Event Date**: October 14, 2024
 - **Venue**: Hall 1 (Room 21F)
 - **Time**: To be announced
 - **Registration Deadline**: October 4, 2024
