@@ -52,7 +52,7 @@
     Access-Control-Allow-Origin = "*"
 
 [[headers]]
-  for = "/HackForge3.png"
+  for = "/group.JPG"
   [headers.values]
     Cache-Control = "public, max-age=86400"
 

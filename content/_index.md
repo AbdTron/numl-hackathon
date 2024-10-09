@@ -15,7 +15,7 @@ Your one-stop destination for all the amazing events happening at **National Uni
 
 ---
 
-## Upcoming Events
+## Recently Completed Events
 
 ### [HackForge 2024](https://numl.atrons.net/hackforge/)
 Be a part of NUML's annual tech competition where coders, designers, and quizmasters gather to show their expertise across multiple categories! Don't miss out—register now and unleash your inner tech wizard.
@@ -25,6 +25,9 @@ Be a part of NUML's annual tech competition where coders, designers, and quizmas
 <br>
 
 ---
+
+## Upcoming Events
+
 
 ### [Inter-Departmental Debate Competition](https://numl.atrons.net/debate/)
 Showcase your oratory brilliance at our **bilingual debate competition**! Join students from different departments in this exciting intellectual battle and make your voice heard.
