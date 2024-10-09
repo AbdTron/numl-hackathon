@@ -52,7 +52,7 @@
     Access-Control-Allow-Origin = "*"
 
 [[headers]]
-  for = "/group.JPG"
+  for = "/group1.jpeg"
   [headers.values]
     Cache-Control = "public, max-age=86400"
 
