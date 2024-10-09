@@ -70,7 +70,7 @@ The NUML Hackathon 2024 has successfully concluded! Congratulations to all parti
 Thank you to everyone who participated and made this event memorable! Special appreciation goes out to our sponsors:
 - [Rang Riwaj](https://www.rangriwaj.pk/)
 - Soft n Dev
-- Adex<sup>360</sup> ([adex360](https://adex360.com/))
+- [adex<sup>360</sup>](https://adex360.com/)
 
 We look forward to seeing you all at next year’s event!
 
