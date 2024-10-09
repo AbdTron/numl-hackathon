@@ -62,7 +62,14 @@
       <link>http://localhost:1313/hackforge/</link>
       <pubDate>Sat, 07 Sep 2024 16:33:54 +0200</pubDate>
       <guid>http://localhost:1313/hackforge/</guid>
-      <description>&lt;h2 id=&#34;hackforge-01&#34;&gt;HackForge 0.1&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;HackForge 0.1&lt;/strong&gt; is an exciting annual tech competition that invites participants to demonstrate their abilities across multiple categories. Whether you&amp;rsquo;re a seasoned coder or a budding designer, this event provides a platform to test your skills and compete with like-minded enthusiasts.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;numl-hackathon-2024---event-recap&#34;&gt;NUML Hackathon 2024 - Event Recap&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to announce the successful conclusion of the &lt;strong&gt;NUML Hackathon 2024&lt;/strong&gt;! Over the past three days, participants demonstrated incredible talent, creativity, and determination across all competitions, including &lt;strong&gt;Coding&lt;/strong&gt;, &lt;strong&gt;Web Development&lt;/strong&gt;, &lt;strong&gt;Graphic Designing&lt;/strong&gt;, and the &lt;strong&gt;Math Trivia&lt;/strong&gt; challenge. The energy and enthusiasm were truly inspiring, making this year’s HackForge an unforgettable experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NUML Hackathon 2024 - Results</title>
+      <link>http://localhost:1313/hackforge/hackforge-results/</link>
+      <pubDate>Sat, 07 Sep 2024 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/hackforge/hackforge-results/</guid>
+      <description>&lt;br&gt;&#xD;&#xA;&lt;p&gt;The NUML Hackathon 2024 has successfully concluded! Congratulations to all participants for their hard work, creativity, and resilience. Here are the top teams and individuals from each competition category:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Copy Right</title>
@@ -70,13 +77,6 @@
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
       <guid>http://localhost:1313/copyright/</guid>
       <description>&lt;h1 id=&#34;copyright--2024-abdullah-irshad&#34;&gt;Copyright © 2024 Abdullah Irshad&lt;/h1&gt;&#xA;&lt;p&gt;This website is developed and managed by Abdullah Irshad, a student of NUML Lahore Campus. All rights reserved.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>Learn about our privacy practices and your rights regarding your data.</description>
     </item>
   </channel>
 </rss>

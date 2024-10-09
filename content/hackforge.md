@@ -6,69 +6,28 @@ draft: false
 layout: "hackforge"
 ---
 
-## HackForge 0.1
+## NUML Hackathon 2024 - Event Recap
 
-**HackForge 0.1** is an exciting annual tech competition that invites participants to demonstrate their abilities across multiple categories. Whether you're a seasoned coder or a budding designer, this event provides a platform to test your skills and compete with like-minded enthusiasts.
+We are thrilled to announce the successful conclusion of the **NUML Hackathon 2024**! Over the past three days, participants demonstrated incredible talent, creativity, and determination across all competitions, including **Coding**, **Web Development**, **Graphic Designing**, and the **Math Trivia** challenge. The energy and enthusiasm were truly inspiring, making this year’s HackForge an unforgettable experience.
 
-<br>
+### Our Gratitude to All
 
+A heartfelt thank you to everyone who participated! Your hard work, innovation, and commitment to excellence were remarkable, and it was a pleasure to witness the impressive projects and solutions you created. We would also like to extend our deep appreciation to our judges, volunteers, and organizers, whose dedication made this event possible and ensured its smooth operation.
 
-### Key Details
+### Celebrating Excellence
 
+Congratulations to the winners and all participants! Each category saw outstanding entries, and each project was worthy of winning. Awards and certificates were distributed to the top performers in each category, celebrating their remarkable achievements.
 
-- **Event Dates**: October 7, 8, 9, 2024
-- **Registration Deadline**: October 6, 2024
-- **Team Limit**: 30 teams per competition
+### Special Thanks to Our Sponsors
 
-<br>
+We would also like to thank our sponsors for their invaluable support in making NUML Hackathon 2024 a success. Special thanks to:
 
----
+- [Rang Riwaj](https://www.rangriwaj.pk/)
+- Soft n Dev
+- [adex<sup>360</sup>](https://adex360.com/)
 
-### Registration & Competition Categories
+### Looking Forward
 
- - **Competitive Programming**: Rs. 250 per member (Team of 2 members/ Individual)
-  - **Website Development**: Rs. 300 per member (Team of 3 members/ Individual)
-  - **Graphic Designing**: Rs. 300 per member (Individual ONLY)
-  - **Math Quiz IQ Test**: Rs. 200 per participant (Individual ONLY)
+We hope this event provided valuable experience, learning, and connection opportunities for everyone involved. Stay tuned for next year’s Hackathon, where we’ll continue to foster innovation and creativity in the NUML community!
 
-<br>
-
-
----
-
-### Rules and Regulations
-
-#### Eligibility
-
-- For eligibility, rules and regulation, please look the [Rules Section](https://numl.atrons.net/hackforge/hackforge-rules/)
-- The time limits for each competition is specified in the competition guidelines.
-
-
-
-#### Registration Guidelines
-
-- Registration is mandatory for all participants.
-- Team registration will close once the 30-team limit is reached in each competition.
-
-<br>
-
-
----
-
-### Judging Criteria
-
-- Judging for each competition will focus on creativity, technical skills, problem-solving abilities, and adherence to the competition's specific rules.
-- Full judging details will be announced closer to the event date.
-
-<br>
-
----
-
-### Prizes
-
-Prizes and certificates will be awarded to the top 3 participants or teams in each category. For details on the Prizes, Please visit the [Rules Section](https://numl.atrons.net/hackforge/hackforge-rules/)
-
-<p>
-  <strong>For Contact:</strong> <a href="https://numl.atrons.net/contacts/" target="_blank">Contact Info</a><br>
-</p>
-
+Thank you again, and we look forward to seeing you at our future events!
