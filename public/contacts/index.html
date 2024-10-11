@@ -87,25 +87,9 @@ If you have any questions or need assistance, feel free to reach out to us throu
     <div class="sticky-top">
     <header class="navbar navbar-expand-lg">
         <div class="container-lg">
-            <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; white-space: nowrap;">
+            
+                <a class="navbar-brand me-auto me-lg-3" href="/">NUML</a>
 
-                    <div style="display: flex; gap: 10px; align-items: center;">
-                        <a class="navbar-brand" href="https://numl.atrons.net/">NUML</a>
-                        <a class="navbar-brand" href="https://numl.atrons.net/hackforge">Hackforge</a>
-                        <a class="navbar-brand" href="https://numl.atrons.net/debate">Debate</a>
-
-                        <div class="dropdown">
-                            <a class="navbar-brand dropdown-toggle" href="#" role="button" id="rulesDropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                                Rules
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="rulesDropdown">
-                                <li><a class="dropdown-item" href="https://numl.atrons.net/debate/rules/debate-rules">Debate Rules</a></li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-                
                 
                 
                 
@@ -134,7 +118,24 @@ If you have any questions or need assistance, feel free to reach out to us throu
                     </div>
                     
                     <div class="offcanvas-body d-flex flex-column flex-lg-row justify-content-between">
-                        <ul class="navbar-nav flex-grow-1"></ul>
+                        <ul class="navbar-nav flex-grow-1"><li class="nav-item">
+                                <a class="nav-link" href="http://localhost:1313/debate/" >Debate</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="http://localhost:1313/hackforge/" >HachForge</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Rules<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                        <path d="M6 9l6 6l6 -6"></path>
+                                    </svg>
+                                </a>
+                                <ul class="dropdown-menu shadow rounded border-0">
+                                    <li><a class="dropdown-item" href="http://localhost:1313/debate/rules/debate-rules/" >Debate Rules</a></li>
+                                    </ul>
+                            </li>
+                            </ul>
 
                         
                         

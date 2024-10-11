@@ -1,5 +1,5 @@
 title = "NUML"
-baseURL = "https://numl.atrons.net/"
+baseURL = ""http://localhost/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

@@ -10,6 +10,25 @@
 #   identifier = "help"
 #   url = "/docs/help/"
 
+[[main]]
+  name = "Debate Rules"
+  url = "/debate/rules/debate-rules/"
+  weight = 20
+  parent = "Rules"
+  identifier = "rules"
+
+   [[main]]
+  name = "HachForge"
+  weight = 10
+  identifier = "hackforge"
+  url = "/hackforge/"
+
+  [[main]]
+  name = "Debate"
+  weight = 10
+  identifier = "debate"
+  url = "/debate/"
+
 # [[docs]]
 #   name = "Lorem"
 #   weight = 70
