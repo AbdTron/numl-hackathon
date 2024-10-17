@@ -10,12 +10,12 @@
 #   identifier = "help"
 #   url = "/docs/help/"
 
-[[main]]
-  name = "Debate Rules"
-  url = "/debate/rules/debate-rules/"
-  weight = 20
-  parent = "Rules"
-  identifier = "rules"
+#[[main]]
+#  name = "Debate Rules"
+#  url = "/debate/rules/debate-rules/"
+#  weight = 20
+#  parent = "Rules"
+#  identifier = "rules"
 
    [[main]]
   name = "HachForge"

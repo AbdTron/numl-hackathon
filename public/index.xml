@@ -6,7 +6,7 @@
     <description>Recent content in NUML Events on NUML</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2024 17:19:07 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 16:33:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
@@ -37,6 +37,13 @@
       <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>NUML Debate Society 2024 - Event Concluded</title>
+      <link>http://localhost:1313/debate/</link>
+      <pubDate>Wed, 16 Oct 2024 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/debate/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;NUML Debate Society 2024&lt;/strong&gt; inter-departmental bilingual declamation competition has successfully concluded. We extend our heartfelt gratitude to all organizers, participants, and attendees for making this event memorable. Thank you for showcasing your public speaking talent and making this event a success!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Schedule</title>
       <link>http://localhost:1313/contacts/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
@@ -49,13 +56,6 @@
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/schedule/</guid>
       <description>&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;numl-hackathon-schedule&#34;&gt;NUML Hackathon Schedule&lt;/h2&gt;&#xA;&lt;p&gt;Schedule for the upcoming event. Please note that the schedule is subject to change.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;October 7, 2024&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NUML Debate Society 2024</title>
-      <link>http://localhost:1313/debate/</link>
-      <pubDate>Mon, 16 Sep 2024 16:33:54 +0200</pubDate>
-      <guid>http://localhost:1313/debate/</guid>
-      <description>&lt;h2 id=&#34;debate-society-2024&#34;&gt;Debate Society 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Debate Society 2024&lt;/strong&gt; is an inter-departmental bilingual declamation competition, inviting students from all departments to showcase their public speaking skills. Whether you&amp;rsquo;re an experienced debater or just starting, this event provides a platform to demonstrate your talent and compete with your peers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NUML Hackathon 2024</title>

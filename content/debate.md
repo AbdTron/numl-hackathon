@@ -1,77 +1,26 @@
 ---
-title: "NUML Debate Society 2024"
-description: "Join us for the NUML Inter-Departmental Bilingual Declamation Competition! Showcase your public speaking talent."
-date: 2024-09-16T16:33:54+02:00
+title: "NUML Debate Society 2024 - Event Concluded"
+description: "The NUML Inter-Departmental Bilingual Declamation Competition has concluded. Thank you to all organizers and participants."
+date: 2024-10-16T16:33:54+02:00
 draft: false
 layout: "debate"
 ---
 
-## Debate Society 2024
 
-**Debate Society 2024** is an inter-departmental bilingual declamation competition, inviting students from all departments to showcase their public speaking skills. Whether you're an experienced debater or just starting, this event provides a platform to demonstrate your talent and compete with your peers.
-
-<br>
-
-### Key Details
-
-- **Event Date**: October 14, 2024
-- **Venue**: Hall 1 (Room 21F)
-- **Time**: To be announced
-- **Registration Deadline**: October 4, 2024
+The **NUML Debate Society 2024** inter-departmental bilingual declamation competition has successfully concluded. We extend our heartfelt gratitude to all organizers, participants, and attendees for making this event memorable. Thank you for showcasing your public speaking talent and making this event a success!
 
 <br>
 
----
+### Event Highlights
 
-### Categories
-
-- **Bilingual Declamation**: English and Urdu categories.
-- **Declamation Topic**: You can view the [declamation topics here](https://numl.atrons.net/debate/debate-topics).
+The event brought together talented students from various departments, each sharing their perspectives in both English and Urdu. Judges evaluated participants on content, delivery, and impact, making it a challenging yet rewarding competition.
 
 <br>
 
----
+### Thank You
 
-### Rules and Regulations
-
-#### Eligibility
-
-- Open to all NUML Lahore Campus students.
-- Each participant will have 3–4 minutes to present.
-- To read futher details on the rules please visit the [rules section](https://numl.atrons.net/debate/rules/debate-rules)
-
-#### Speech Guidelines
-
-- Participants can choose to deliver their speeches in either English or Urdu.
-- All speakers willspeak on serious topics.
-- The Speaker may opt to either agree or disagree from the given topic
-
-
-<br>
-
----
-
-### Judging Criteria
-
-- Judging will focus on content, delivery, and overall impact.
-- The decision of the judges will be final.
-
-<br>
-
----
-
-### Prizes
-
-Prizes will be annouced close to the event.
-
-<br>
-
----
-
-**Focal Person**
-
-Ms. Aasma Iram
+Special thanks to Ms. Aasma Iram for her guidance and support throughout the event. We look forward to hosting more events in the future and hope to see even greater participation.
 
 <p>
-  <strong>For Contact:</strong> <a href="https://numl.atrons.net/contacts/" target="_blank">Contact Info</a><br>
+  <strong>Contact:</strong> <a href="https://numl.atrons.net/contacts/" target="_blank">Contact Info</a><br>
 </p>

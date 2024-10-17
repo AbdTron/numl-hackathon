@@ -24,15 +24,18 @@ Be a part of NUML's annual tech competition where coders, designers, and quizmas
 
 <br>
 
----
-
-## Upcoming Events
-
-
 ### [Inter-Departmental Debate Competition](https://numl.atrons.net/debate/)
 Showcase your oratory brilliance at our **bilingual debate competition**! Join students from different departments in this exciting intellectual battle and make your voice heard.
 
 <a class="text-muted">Event Date 14 October</a>
+
+<br>
+
+---
+
+## Upcoming Events
+
+We're busy planning exciting events just for you! Check back soon for updates on future opportunities to showcase your talents and connect with the NUML community.
 
 <br>
 
